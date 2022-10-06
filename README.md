@@ -1,4 +1,4 @@
-### Hi there I am Aryansh Rana 👋
+### Hi, I am Aryansh Rana 👋
 
 <!--
 **Aryanshrana/Aryanshrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
